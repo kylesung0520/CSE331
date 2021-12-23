@@ -1,2 +1,2 @@
 # CSE331
-Algorithms and Complexity in Scala
+Introduces paradigms for designing algorithms and fundamental limitations to what algorithms can do. Covers basic algorithm design paradigms of greedy algorithms, divide and conquer algorithms and dynamic programming, as well as a selection of advanced algorithmic topics, such as randomized algorithms, algorithms for distributed systems and basic algorithms for machine learning. Topics related to limitations of algorithms include NP-completeness and undecidability.
