@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CSE331.iml" filepath="$PROJECT_DIR$/.idea/CSE331.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW1Java/HW1Java.iml" filepath="$PROJECT_DIR$/HW1Java/HW1Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW2Java/HW2Java.iml" filepath="$PROJECT_DIR$/HW2Java/HW2Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW3Java/HW3Java.iml" filepath="$PROJECT_DIR$/HW3Java/HW3Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW4Java/HW4Java.iml" filepath="$PROJECT_DIR$/HW4Java/HW4Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW5Java/HW5Java.iml" filepath="$PROJECT_DIR$/HW5Java/HW5Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW6Java/HW6Java.iml" filepath="$PROJECT_DIR$/HW6Java/HW6Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW7Java/HW7Java.iml" filepath="$PROJECT_DIR$/HW7Java/HW7Java.iml" />
+    </modules>
+  </component>
+</project>
